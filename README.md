@@ -1,4 +1,7 @@
-# api documentation for  [ember-plupload (v1.13.19)](https://github.com/tim-evans/ember-plupload#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-ember-plupload.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-ember-plupload) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-ember-plupload.svg)](https://travis-ci.org/npmdoc/node-npmdoc-ember-plupload)
+# npmdoc-ember-plupload
+
+#### basic api documentation for  [ember-plupload (v1.13.19)](https://github.com/tim-evans/ember-plupload#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-ember-plupload.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-ember-plupload) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-ember-plupload.svg)](https://travis-ci.org/npmdoc/node-npmdoc-ember-plupload)
+
 #### An uploader component for Ember apps
 
 [![NPM](https://nodei.co/npm/ember-plupload.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/ember-plupload)
@@ -86,7 +89,8 @@
         "start": "ember server",
         "test": "ember try:testall"
     },
-    "version": "1.13.19"
+    "version": "1.13.19",
+    "bin": {}
 }
 ```
 
